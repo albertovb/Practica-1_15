@@ -12,6 +12,7 @@ table{
 }
 caption{
     color: black;
+    padding: 10px;
 }
 p{
     color:  rgb(156, 72, 39);
